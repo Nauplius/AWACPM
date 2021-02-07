@@ -1,3 +1,7 @@
+**Repository Moved**
+
+This repository has moved to [tseward/AWACPM](https://github.com/tseward/AWACPM).
+
 # AWACPM
 Automated Web Application Companion Patch Management (Office Web Apps 2013/Office Online Server)
 
